@@ -1,0 +1,133 @@
+.navbar div {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.navbar li{
+    padding: 10px 5px;
+}
+
+.navabr div a svg{
+    width: 198px;
+    height: 55px;
+    top: -865px;
+    left: 1015px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.navbar button{
+    background-color: #e77432;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: white;
+    width: 167px;
+    height: 64px;
+    top: -850px;
+    left: 1954px;
+    gap: 0px;
+    opacity: 0px;
+    margin-right: 20px;
+    border: none;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);;
+}
+
+.heading{
+    width: 520px;
+    height: 65px;
+    top: -460.57px;
+    left: 1011px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.head-content{
+    width: 520px;
+height: 65px;
+margin-top: 200px;
+margin-left: 200px;
+gap: 0px;
+opacity: 0px;
+font-family: David Libre;
+font-size: 60px;
+font-weight: 700;
+line-height: 65px;
+text-align: left;
+color: #101a24;
+}
+
+.content-below{
+    width: 350px;
+height: 65px;
+margin-top: 150px;
+margin-left: 200px;
+}
+
+.food{
+    background-image: url("image copy 3.png");
+    width: 516px;
+height: 712px;
+top: 200px;
+left: 816px;
+gap: 0px;
+opacity: 0px;
+background-size: cover;
+position: absolute;
+}
+
+.food2{
+    background-image: url("image copy 5.png");
+    width: 364px;
+height: 364px;
+top: 658px;
+left: 601px;
+gap: 0px;
+opacity: 0px;
+background-size: cover;
+position: absolute;
+}
+
+.menu{    
+    background-color: black;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: white;
+    width: 120px;
+    height: 54px;    
+    border: none;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+    font-family: David Libre;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.book{    
+    background-color: #e77432;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: white;
+    width: 120px;
+    height: 54px;    
+    border: none;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+    font-family: David Libre;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.image{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.insta{
+    margin-left: 315px;
+    margin-top: -70px;
+}
+
+.x{
+    margin-left: 405px;
+}

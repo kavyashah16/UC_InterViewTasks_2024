@@ -1,0 +1,80 @@
+.navbar div {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.navbar li{
+    padding: 10px 5px;
+}
+
+.navabr div a svg{
+    width: 198px;
+    height: 55px;
+    top: -865px;
+    left: 1015px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.navbar button{
+    background-color: #e77432;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: white;
+    width: 167px;
+    height: 64px;
+    top: -850px;
+    left: 1954px;
+    gap: 0px;
+    opacity: 0px;
+    margin-right: 20px;
+    border: none;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+    font-family: David Libre;
+}
+
+
+
+.chef{
+    background-image: url("image copy 2.png");
+    width: 507px;
+height: 695px;
+top: 180px;
+left: 800px;
+gap: 0px;
+opacity: 0px;
+background-size: cover;
+position: absolute;
+}
+
+.onion{
+    background-image: url("onion.png");
+    width: 290px;
+    height: 303px;
+    margin-top: 100px;
+    margin-left: 120px;
+    background-size: cover;
+}
+
+.head-about{
+    width: 520px;
+height: 65px;
+margin-top: -150.57px;
+margin-left: 200px;
+gap: 0px;
+opacity: 0px;
+font-family: David Libre;
+font-size: 60px;
+font-weight: 700;
+line-height: 65px;
+text-align: left;
+color: #101a24;
+}
+
+.content{
+    width: 350px;
+    margin-left: 200px;
+}
+
